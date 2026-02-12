@@ -46,6 +46,12 @@ swift run machscope parse /bin/ls --json
 
 ## Installation
 
+### Homebrew
+
+```bash
+brew install sadopc/tap/machscope
+```
+
 ### Build from Source
 
 ```bash
