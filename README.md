@@ -245,6 +245,10 @@ xcrun swift-format -i -r Sources/ Tests/
 - ARM Architecture Reference Manual
 - The Swift community
 
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=sadopc/machscope&type=date&legend=top-left)](https://www.star-history.com/#sadopc/machscope&type=date&legend=top-left)
+
 ---
 
 **Built with ❤️ in Swift**
